@@ -8,6 +8,7 @@ I am a Full Stack Developer who is passionate about building user-friendly, acce
 
 ## Finished Projects
 
+- [Neeley Intent to Graduate](https://neeleyintentgrad.tcu.edu/)
 - [SuperFrog Scheduler](https://superfrog.tcu.edu/)
 - [TCU Homepage](https://www.tcu.edu/)
 - [Password](https://password.tcu.edu/)
