@@ -1,10 +1,13 @@
-## Hi, I'm Mayra 👋🏽 👩🏽‍💻
+## Hi, I'm Mayra 👋🏽
 
 I am a Full Stack Developer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and .Net Core (C#, APIs). 
+
+## Pronouns: She/Her 🌈👩🏽‍💻
 
 ## Find me
 
 - Twitter [@jasminep16](https://twitter.com/jasminep16)
+- [LinkedIn](https://www.linkedin.com/in/mayraperales/)
 
 ## Finished Projects
 
