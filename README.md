@@ -14,7 +14,7 @@ _Pronouns: She/Her_ 🌈👩🏽‍💻
 - [Olympics](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/)
 - [March Madness](https://www.washingtonpost.com/sports/interactive/2022/perfect-bracket-march-madness/)
 
-## Tech I am currently working with and learning
+## Tech I am currently working with
 
 - AWS Serverless applications (lambdas, cloudwatch, state machine, etc)
 - React
