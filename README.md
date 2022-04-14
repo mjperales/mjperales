@@ -9,6 +9,20 @@ _Pronouns: She/Her_ 🌈👩🏽‍💻
 - Twitter [@jasminep16](https://twitter.com/jasminep16)
 - [LinkedIn](https://www.linkedin.com/in/mayraperales/)
 
+## Contributed
+
+- [Olympics](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/)
+- [March Madness](https://www.washingtonpost.com/sports/interactive/2022/perfect-bracket-march-madness/)
+
+## Tech I am currently working with and learning
+
+- AWS Serverless applications (lambdas, cloudwatch, state machine, etc)
+- React
+- [Next.js](https://nextjs.org/)
+- [Stitches](https://stitches.dev/)
+- TypeScript
+- [WPDS](https://github.com/washingtonpost/wpds-ui-kit)
+
 ## Finished Projects
 
 - [Neeley Intent to Graduate](https://neeleyintentgrad.tcu.edu/)
