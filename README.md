@@ -1,16 +1,16 @@
 ## Hi, I'm Mayra 👋🏽
 
-I am a Full Stack Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and .Net Core (C#, APIs). 
+I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and .Net Core (C#, APIs). 
 
 _Pronouns: She/Her_ 🌈👩🏽‍💻
 
 ## Find me
 
-- Twitter [@jasminep16](https://twitter.com/jasminep16)
 - [LinkedIn](https://www.linkedin.com/in/mayraperales/)
 
 ## Contributed
 
+- [On the Record](https://www.washingtonpost.com/news-quiz/)
 - [Olympics](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/)
 - [March Madness](https://www.washingtonpost.com/sports/interactive/2022/perfect-bracket-march-madness/)
 
@@ -25,6 +25,7 @@ _Pronouns: She/Her_ 🌈👩🏽‍💻
 
 ## Finished Projects
 
+- [On the Record](https://www.washingtonpost.com/news-quiz/)
 - [Neeley Intent to Graduate](https://neeleyintentgrad.tcu.edu/)
 - [SuperFrog Scheduler](https://superfrog.tcu.edu/)
 - [TCU Homepage](https://www.tcu.edu/)
