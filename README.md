@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and Node. My wife and I have a three year old son. I enjoy reading, walking my lovely dog, and chasing my son around.  
 
-Currently, I work at [The Washington Post](https://www.washingtonpost.com/) where I help build tools to help the newsroom. We publish all our applications through AWS using Cloudformation templates and Serverless Framework. Occasionally, I help with intership resumes and interviews.  
+Currently, I work at [The Washington Post](https://www.washingtonpost.com/) where I help build tools to help the newsroom. We publish all our applications through AWS using Cloudformation templates and Serverless Framework. Occasionally, I help with internship resumes and interviews.  
 
 _Pronouns: She/Her_ 🌈👩🏽‍💻
 
@@ -31,7 +31,7 @@ Link to live quiz: [On the Record](https://www.washingtonpost.com/news-quiz/)
 
 <details>
   <summary>Slackbot</summary>
-Built a Slackbot implementation to fetch stories from an API, compare and add details into a Google Spreadsheet. We used a AWS State Machine with step functions to run every 30 minutes. The end result was to send Slack messages with a summary of stories that contained a certain element. 
+Built a Slackbot implementation to fetch stories from an API, compare and add details into a Google Spreadsheet. We used a AWS State Machine with step functions that runs every 30 minutes. The end result was to send Slack messages with a summary of stories that meet certain criteria. 
 </details>
 
 ### Past Projects
