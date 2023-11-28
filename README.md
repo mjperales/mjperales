@@ -1,16 +1,24 @@
-## Hi, I'm Mayra 👋🏽
+# Hi, I'm Mayra 👋🏽
 
-I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and Node.js
+I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and Node.
 
 _Pronouns: She/Her_ 🌈👩🏽‍💻
 
 ## Find me
 
-- [LinkedIn](https://www.linkedin.com/in/mayraperales/)
+- [Linkedin](https://www.linkedin.com/in/mayraperales/)
 
-## Projects
+# Projects
 
-- [On the Record](https://www.washingtonpost.com/news-quiz/)
+<details open>
+  <summary>On the Record</summary>
+
+Daily news quiz built with NextJS and KeystoneJS. [On the Record](https://www.washingtonpost.com/news-quiz/)
+<img width="383" alt="Screenshot 2023-11-28 at 2 57 12 PM" src="https://github.com/mjperales/mjperales/assets/5091158/75b5d26f-bb38-42dd-96ca-45ccc2d37706">
+<img width="391" alt="Screenshot 2023-11-28 at 2 57 33 PM" src="https://github.com/mjperales/mjperales/assets/5091158/617387f1-31eb-4b7d-8824-c75a39c5f410">
+<img width="390" alt="Screenshot 2023-11-28 at 2 58 46 PM" src="https://github.com/mjperales/mjperales/assets/5091158/f7dc28ee-f5a2-4eab-9ed0-6d9c2067894a">
+</details>
+
 - [Olympics](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/)
 - [March Madness](https://www.washingtonpost.com/sports/interactive/2022/perfect-bracket-march-madness/)
 - [Neeley Intent to Graduate](https://neeleyintentgrad.tcu.edu/)
