@@ -9,9 +9,22 @@ _Pronouns: She/Her_ 🌈👩🏽‍💻
 ## Find me
 
 - [Linkedin](https://www.linkedin.com/in/mayraperales/)
-- [Threads](https://www.threads.net/@m.jperales)
 
 # Recent Projects
+
+<details open>
+  <summary>Election Dashboard</summary>
+
+Election Dashboard was developed using React, TypeScript, CSS-in-JS and HTML. 
+Link: [Election Dashboard](https://www.washingtonpost.com/elections/results/2024/11/05/election-dashboard/)
+
+### Screenshot
+
+<div style="width: 100%; float: left;">
+  <img width="1422" alt="Election Dashboard - Arizona" src="https://github.com/user-attachments/assets/bd72b2a9-3fe3-4afc-991d-7404b34536b8" />
+</div>
+
+</details>
 
 <details open>
   <summary>On the Record</summary>
