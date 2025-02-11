@@ -1,6 +1,6 @@
 # Hi, I'm Mayra 👋🏽
 
-I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, SCSS, HTML) and Node. I enjoy reading, walking my lovely dog, and chasing my sons around.  
+I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, TypeScript, CSS, HTML) and Node. I enjoy reading, walking my lovely dog, and chasing my sons around.  
 
 Currently, I work at [The Washington Post](https://www.washingtonpost.com/) where I help build tools to help the newsroom. We publish all our applications through AWS using Cloudformation templates and Serverless Framework. Occasionally, I help with internship resumes and interviews.  
 
