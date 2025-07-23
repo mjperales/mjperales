@@ -1,85 +1,53 @@
-# Hi, I'm Mayra 👋🏽
+# Hi, I'm Mayra Perales 👋
 
-I am a Senior Software Engineer who is passionate about building user-friendly, accessible web applications. Some technologies I enjoy working with are React (JavaScript, TypeScript, CSS, HTML) and Node. I enjoy reading, walking my lovely dog, and chasing my sons around.  
+I'm a Senior Full-Stack Engineer passionate about building tools that empower journalists and elevate public discourse. I currently work at The Washington Post, where I lead projects at the intersection of editorial, data, and real-time infrastructure.
 
-Currently, I work at [The Washington Post](https://www.washingtonpost.com/) where I help build tools to help the newsroom. We publish all our applications through AWS using Cloudformation templates and Serverless Framework. Occasionally, I help with internship resumes and interviews.  
+---
 
-_Pronouns: She/Her_ 🌈👩🏽‍💻
+### 💻 Tech I Work With
 
-## Find me
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 
-- [Linkedin](https://www.linkedin.com/in/mayraperales/)
+---
 
-# Recent Projects
+### 🚀 Featured Projects
 
-<details open>
-  <summary>Election Dashboard</summary>
+- **Haystacker**
+  React + TypeScript frontend for an AI-powered media analysis tool, built during The Post Hackathon. Adopted company-wide. Won 3rd place.
 
-Election Dashboard was developed using React, TypeScript, CSS-in-JS and HTML. 
-Link: [Election Dashboard](https://www.washingtonpost.com/elections/results/2024/11/05/election-dashboard/)
+- **[From the Source](https://www.washingtonpost.com/climate-solutions/2025/06/30/reusable-cups-concerts-stadiums/)**
+  Frontend architecture for an LLM-driven newsroom feature using Next.js and Kafka. Delivered under a tight CTO-backed deadline.
 
-### Screenshot
+- **Slackbot Alert System (Internal)**
+  Automated alerting for print workflows using AWS Step Functions, Lambda, and Slack API.
 
-<div style="width: 100%; float: left;">
-  <img width="1422" alt="Election Dashboard - Arizona" src="https://github.com/user-attachments/assets/bd72b2a9-3fe3-4afc-991d-7404b34536b8" />
-</div>
+---
 
-</details>
+### 🏆 Highlights
 
-<details open>
-  <summary>On the Record</summary>
+- Post Hackathon participant and 3rd place winner
+- Contributor to the [2024 U.S. Election Dashboard](https://www.washingtonpost.com/elections/results/2024/11/05/election-dashboard/)
+- Lead contributor to [On the Record](https://www.washingtonpost.com/games/news-quiz/) game
 
-Daily news quiz built with [Next.js](https://nextjs.org/) and [Keystone.js](https://keystonejs.com/). 
-Link to live quiz: [On the Record](https://www.washingtonpost.com/news-quiz/)
+---
 
-### Screenshots
+### 🌱 Currently Exploring
 
-<div style="width: 100%; float: left;">
-<img width="200" alt="On the Record start" src="https://github.com/mjperales/mjperales/assets/5091158/75b5d26f-bb38-42dd-96ca-45ccc2d37706">
-<img width="200" alt="On the Record question view" src="https://github.com/mjperales/mjperales/assets/5091158/617387f1-31eb-4b7d-8824-c75a39c5f410">
-<img width="200" alt="On the Record points view" src="https://github.com/mjperales/mjperales/assets/5091158/f7dc28ee-f5a2-4eab-9ed0-6d9c2067894a">
-</div>
+- LLM workflow orchestration
+- Cloud infrastructure patterns using CDK and Terraform
+- Interactive storytelling with generative AI
 
-</details>
+---
 
-<details>
-  <summary>Slackbot</summary>
-Built a Slackbot implementation to fetch stories from an API, compare and add details into a Google Spreadsheet. We used a AWS State Machine with step functions that runs every 30 minutes. The end result was to send Slack messages with a summary of stories that meet certain criteria. 
-</details>
+### 📫 Let's Connect
 
-### Past Projects
+- 🧠 [LinkedIn](https://www.linkedin.com/in/mjperales)
 
-- [Olympics](https://www.washingtonpost.com/sports/olympics/interactive/2021/olympic-medal-count-results/)
-- [March Madness](https://www.washingtonpost.com/sports/interactive/2022/perfect-bracket-march-madness/)
-- [Neeley Intent to Graduate](https://neeleyintentgrad.tcu.edu/)
-- [SuperFrog Scheduler](https://superfrog.tcu.edu/)
-- [TCU Homepage](https://www.tcu.edu/)
-- [Password](https://password.tcu.edu/)
+---
 
-## Tech I ❤️
-
-- AWS Serverless applications (lambdas, cloudwatch, state machine, etc)
-- React
-- [Keystone JS](https://keystonejs.com/)
-- [Next.js](https://nextjs.org/)
-- [Stitches](https://stitches.dev/)
-- TypeScript
-- [WPDS](https://github.com/washingtonpost/wpds-ui-kit)
-- [Storybook](https://storybook.js.org/)
-
-
-
-<!--
-**mjperales/mjperales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Great software should solve real problems and invite collaboration.”
