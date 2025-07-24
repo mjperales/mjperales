@@ -46,7 +46,7 @@ I'm a Senior Full-Stack Engineer passionate about building tools that empower jo
 
 ### 📫 Let's Connect
 
-- 🧠 [LinkedIn](https://www.linkedin.com/in/mjperales)
+- 🧠 [LinkedIn](www.linkedin.com/in/mayraperales)
 
 ---
 
