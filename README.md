@@ -1,4 +1,4 @@
-# Hi, I'm Mayra Perales 👋
+# Hi, I'm Mayra 👋
 
 I'm a Senior Full-Stack Engineer passionate about building tools that empower journalists and elevate public discourse. I currently work at The Washington Post, where I lead projects at the intersection of editorial, data, and real-time infrastructure.
 
