@@ -1,6 +1,6 @@
 # Hi, I'm Mayra 👋
 
-I'm a Senior Full-Stack Engineer passionate about building tools that empower journalists and elevate public discourse. I currently work at The Washington Post, where I lead projects at the intersection of editorial, data, and real-time infrastructure.
+I’m a Senior Full-Stack Engineer passionate about building scalable, accessible, and user-focused applications. I have extensive experience leading projects that bring together complex data, intuitive design, and real-time infrastructure to deliver impactful digital experiences.
 
 ---
 
