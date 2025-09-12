@@ -1,6 +1,6 @@
 # Hi, I'm Mayra 👋
 
-I’m a Senior Full-Stack Engineer passionate about building scalable, accessible, and user-focused applications. I have extensive experience leading projects that bring together complex data, intuitive design, and real-time infrastructure to deliver impactful digital experiences.
+I’m a Software Engineer passionate about building scalable, accessible, and user-focused applications. I have extensive experience leading projects that bring together complex data, intuitive design, and real-time infrastructure to deliver impactful digital experiences.
 
 ---
 
